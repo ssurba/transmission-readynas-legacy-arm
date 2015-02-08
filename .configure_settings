@@ -1,0 +1,3 @@
+  ./config.status --config
+
+  '--disable-mac' '--enable-utp' '--enable-daemon' '--enable-lightweight' '--prefix=/opt/transmission'
