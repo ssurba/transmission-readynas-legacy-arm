@@ -1,1 +1,2 @@
+  #! /bin/sh
   ./configure  --disable-mac --enable-utp --enable-daemon --enable-lightweight --prefix=/opt/transmission
