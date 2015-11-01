@@ -1,6 +1,6 @@
-# transmission-readynas-arm-legacy
+# transmission-readynas-legacy-arm
 
-Latest version is: 2.84-0.07-ssurba-arm
+Latest version is: legacy-arm-2.84-0.07
 
 This is a special build of Transmission Bittorrent client as an add-on for legacy NETGEAR ReadyNAS storage systems based on ARM architecture - DUO v2 (RND2000v2), NV+ v2 (RND4000v2).
 
@@ -20,4 +20,4 @@ This is a special build of Transmission Bittorrent client as an add-on for legac
 
 * Your NAS should be connected to the Internet while installing this package. Otherwise you may experience delays during the installation and installation process may end up with error due to timeout. This error can be ignored and the package should be installed successfully.
 
-Before installing this version please remove any other builds of Transmission (versions not made by me). But you can keep previous version of my build, newer version will upgrade it.
+Before installing this version please remove any other builds of Transmission (versions not made by me) and Transmission share, if it existed. But you can keep previous version of my build, newer version will upgrade it.
