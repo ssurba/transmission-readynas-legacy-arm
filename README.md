@@ -10,7 +10,7 @@ You can download the add-on in the Releases section: https://github.com/ssurba/t
 
 * You may find release notes for Transmission on Transmission developers site: https://trac.transmissionbt.com/wiki/Changes.
 
-* This package was tested with version 5.3.11 of the RAIDiator firmware. It will work with newer versions, I recommend upgrading the firmware to the latest version (5.3.11 to the moment of writing).
+* This package has been tested with version 5.3.11 of the RAIDiator firmware. It will work with newer versions, I recommend upgrading the firmware to the latest version (5.3.11 to the moment of writing).
 
 * Only transmission-daemon, client tools and Web interface are included in this package.
 
