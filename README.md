@@ -6,7 +6,7 @@ This is a special build of Transmission Bittorrent client as an add-on for legac
 
 ## General notes:
 
-* Release notes for Transmission you can read on Transmission developers site: https://trac.transmissionbt.com/wiki/Changes.
+* Release notes for Transmission you may find on Transmission developers site: https://trac.transmissionbt.com/wiki/Changes.
 
 * This package was tested with version 5.3.11 of the RAIDiator firmware. It will work with newer versions, I recommend upgrading the firmware to the latest version (5.3.11 to the moment of writing).
 
@@ -20,7 +20,7 @@ This is a special build of Transmission Bittorrent client as an add-on for legac
 
 * Your NAS should be connected to the Internet while installing this package. Otherwise you may experience delays during the installation and installation process may end up with error due to timeout. This error can be ignored and the package should be installed successfully.
 
-Before installing this version please **UNINSTALL ANY OTHER BUILDS** of Transmission (versions not made by me) and **DELETE TRANSMISSION SHARE** created by the other build. But you can keep previous version of my build and Transmission share created by it, newer version should use and upgrade them.
+**WARNING!** Before installing this version please **uninstall any other builds** of Transmission (versions not made by me) and **delete Transmission share** created by the other build. But you can keep previous version of my build and Transmission share created by it, newer version should use and upgrade them.
 
 # Version changes:
 
