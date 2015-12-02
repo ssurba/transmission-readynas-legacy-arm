@@ -20,7 +20,7 @@ This is a special build of Transmission Bittorrent client as an add-on for legac
 
 * Your NAS should be connected to the Internet while installing this package. Otherwise you may experience delays during the installation and installation process may end up with error due to timeout. This error can be ignored and the package should be installed successfully.
 
-Before installing this version please remove any other builds of Transmission (versions not made by me) and Transmission share, if it exists. But you can keep previous version of my build, newer version will upgrade it.
+Before installing this version please REMOVE ANY OTHER BUILDS of Transmission (versions not made by me) and Transmission share  created by the other build. But you can keep previous version of my build, newer version will upgrade it.
 
 # Version changes:
 
