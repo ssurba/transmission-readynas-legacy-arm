@@ -1,10 +1,10 @@
 # transmission-readynas-legacy-arm
 
-Latest version is: legacy-arm-2.84-0.07
+Latest version is: legacy-arm-2.92-0.07
 
 This is a special build of Transmission Bittorrent client as an add-on for legacy NETGEAR ReadyNAS storage systems based on ARM architecture - DUO v2 (RND2000v2), NV+ v2 (RND4000v2).
 
-You can download the add-on in the Releases section: https://github.com/ssurba/transmission-readynas-legacy-arm/releases
+You can download the add-on in the Releases section: https://github.com/ssurba/transmission-readynas-legacy-arm/releases/latest
 
 ## General notes:
 
